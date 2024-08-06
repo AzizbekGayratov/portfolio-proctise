@@ -69,6 +69,14 @@ const myProjects = {
       link: "https://uy-ishi-11dars-7oy.netlify.app/",
       gitUrl: "https://github.com/AzizbekGayratov/Uy-ishi-11dars-7oy-",
     },
+    {
+      id: 5,
+      name: "Project №5",
+      image: "/5img.png",
+      description: "This is project",
+      link: "https://uy-ishi-7dars-8oy.vercel.app/",
+      gitUrl: "https://github.com/AzizbekGayratov/Uy-ishi-7dars-8oy-",
+    },
   ],
 };
 export default function Home() {
