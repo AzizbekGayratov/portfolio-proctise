@@ -77,6 +77,14 @@ const myProjects = {
       link: "https://uy-ishi-7dars-8oy.vercel.app/",
       gitUrl: "https://github.com/AzizbekGayratov/Uy-ishi-7dars-8oy-",
     },
+    {
+      id: 6,
+      name: "Project №6",
+      image: "/6img.png",
+      description: "This is project",
+      link: "https://uy-ishi-6dars-8oy.vercel.app/",
+      gitUrl: "https://github.com/AzizbekGayratov/Uy-ishi-6dars-8oy-",
+    },
   ],
 };
 export default function Home() {
